@@ -13,12 +13,6 @@ A fun and simple mood journal app designed for self-reflection and learning. Tra
 
 ---
 
-##  Demo / Screenshots
-
-*(Optional but highly recommended—add screenshots or GIFs of your app here to give users a visual preview)*
-
----
-
 ##  Getting Started
 
 These instructions will help you run the project locally:
